@@ -54,7 +54,7 @@ Designed and developed a Tic-Tac-Toe game using **HTML, CSS, and JavaScript**. T
 ---
 
 ## 🔗 Links
-- **LinkedIn Post:** []  
+- **LinkedIn Post:** [https://www.linkedin.com/posts/preksha-h-d-a522b7333_skillcrafttechnology-tictactoe-webdevelopment-activity-7366491185596600320-dhkd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPfOB4B2_iyoU3CqjBe8tFkGXwwd3PouvQ]  
 
 ---
 
